@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Goldman:wght@400;700&display=swap');
+
+body {
+	background-color:#FAEEE5;
+	max-width: 800px;
+	margin: auto;
+       font-family: "Goldman", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+}
+h1, h2, h3, h4, h5, h6{
+
+}
+H3{
+ Margin: 10px;
+}
+nav li {
+  list-style-type: none;
+    border-radius: 25px;
+display: inline-block;
+ padding: 15px;
+  font-family: "Bruno Ace SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+ background-color: #FEE3CC;
+text-color: #8F89FF;
+margin-bottom: 10px;
+}
+nav li:hover {
+  background-color: 
+
+}
